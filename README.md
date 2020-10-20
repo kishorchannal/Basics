@@ -1,4 +1,4 @@
-# Collections
+# Basics 
 -------------
 ### Java Basics
 
