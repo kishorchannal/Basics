@@ -5,7 +5,7 @@
 1. Data type
 2. Data Conversion
 3. OOP Concepts
-    1. [Inheritance](https://www.geeksforgeeks.org/inheritance-in-java/) [example](https://github.com/kishorchannal/Basics/blob/main/Inheritance.java)
+    1. [Inheritance](https://www.geeksforgeeks.org/inheritance-in-java/)
     2. Polymorphism
     3. Abstraction
     4. Encapsulation
