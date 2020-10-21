@@ -28,7 +28,7 @@ class MountainBike extends Bicycle {
 	public void changeSeatHeight(int newValue) {
 		this.seatHeight = newValue; 
 	}
-	public String information() {
+	public String information() {						//method overriding					
 		return (super.information()+" seatHeight:"+seatHeight);
 	}
 }
