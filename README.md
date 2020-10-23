@@ -9,7 +9,7 @@
 Other Concepts
 1. [Primitive types vs Wrapper Objects](https://medium.com/@bpnorlander/java-understanding-primitive-types-and-wrapper-objects-a6798fb2afe9) 
 
-2.  Integer.parseInt vs Integer.valueOf
+2.  [Integer.parseInt vs Integer.valueOf](https://www.geeksforgeeks.org/integer-valueof-vs-integer-parseint-with-examples/#:~:text=valueOf()%20returns%20an%20Integer,()%20returns%20a%20primitive%20int.&text=Both%20String%20and%20integer%20can,passed%20as%20parameter%20to%20Integer)
 
 
 
