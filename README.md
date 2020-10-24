@@ -17,7 +17,7 @@ Differences
 -------------
 ### Collection Basics
  * ArrayList
-    * Array vs ArrayList
+    * Array vs ArrayList [1](https://www.javatpoint.com/difference-between-array-and-arraylist)
     * Internal Working [1]() [2]() [3]()
     * ArrayList basic operations
     * ArrayList other operations
