@@ -3,7 +3,7 @@
 ### Java Basics
 1. OOP 
 2. Access Modifiers
-3. Data Conversion
+3. [Data Conversion](https://github.com/kishorchannal/Basics/blob/main/Java%20Basics/DataConversion.java)
 
 -------------
 Differences
