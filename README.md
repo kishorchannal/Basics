@@ -1,3 +1,4 @@
+
 # Basics 
 -------------
 ### Java Basics
@@ -15,8 +16,9 @@ Differences
 
 -------------
 ### Collection Basics
-1. ArrayList
+ 1. ArrayList
 	 1.1 Array vs ArrayList
 	 1.2 ArrayList basic operations
 	 1.3 ArrayList other operations
 	 1.4 Other important points [1]() [2]() [3]()
+
