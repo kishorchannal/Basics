@@ -16,7 +16,7 @@ Differences
 
 -------------
 ### Collection Basics
- 1 ArrayList
+ * ArrayList
     * Array vs ArrayList
     * ArrayList basic operations
     * ArrayList other operations
