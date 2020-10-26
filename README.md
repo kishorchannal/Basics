@@ -21,5 +21,4 @@ Differences
     * Internal Working [1](https://www.netjstech.com/2015/08/how-arraylist-works-internally-in-java.html) [2](https://knpcode.com/java/collections/arraylist-internal-implementation-in-java/) 
     * ArrayList basic operations
     * ArrayList other operations
-    * Other important points [1]() [2]() [3]()
 
