@@ -17,11 +17,12 @@ Differences
 -------------
 ### Collection Basics
  * ArrayList
-    * Array vs ArrayList [1](https://www.javatpoint.com/difference-between-array-and-arraylist)
+    * [Array vs ArrayList](https://www.javatpoint.com/difference-between-array-and-arraylist)
     * [Internal Working](https://knpcode.com/java/collections/arraylist-internal-implementation-in-java/) 
     * ArrayList basic operations
     * ArrayList other operations
  * LinkedList
+   * [ArrayList vs LinkedList](https://www.javatpoint.com/difference-between-arraylist-and-linkedlist#:~:text=1)%20ArrayList%20internally%20uses%20a,list%20to%20store%20the%20elements.&text=LinkedList%20class%20can%20act%20as,for%20storing%20and%20accessing%20data.)
    * [Internal Working](https://knpcode.com/java/collections/linkedlist-internal-implementation-in-java/)
    * LinkedList basic operations
    * LinkedList other operations
