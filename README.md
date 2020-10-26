@@ -18,7 +18,10 @@ Differences
 ### Collection Basics
  * ArrayList
     * Array vs ArrayList [1](https://www.javatpoint.com/difference-between-array-and-arraylist)
-    * Internal Working [1](https://knpcode.com/java/collections/arraylist-internal-implementation-in-java/) 
+    * [Internal Working](https://knpcode.com/java/collections/arraylist-internal-implementation-in-java/) 
     * ArrayList basic operations
     * ArrayList other operations
-
+ * LinkedList
+   * [Internal Working](https://knpcode.com/java/collections/linkedlist-internal-implementation-in-java/)
+   * LinkedList basic operations
+   * LinkedList other operations
