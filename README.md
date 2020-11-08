@@ -24,12 +24,12 @@ Differences
  * LinkedList
    * [ArrayList vs LinkedList](https://knpcode.com/java/collections/arraylist-vs-linkedlist-in-java/)
    * [Internal Working](https://knpcode.com/java/collections/linkedlist-internal-implementation-in-java/)
-   * LinkedList basic operations
-   * LinkedList other operations
+   * [LinkedList basic operations]()
+   * [LinkedList other operations]()
 * HashSet
    * [Internal Working]()
-   * HashSet basic operations
+   * [HashSet basic operations]()
 * HashMap
    * [Internal Working]()
-   * HashMap basic operations
-   * HashMap other operations
+   * [HashMap basic operations]()
+   * [HashMap other operations]()
