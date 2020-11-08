@@ -19,17 +19,17 @@ Differences
  * ArrayList
     * [Array vs ArrayList](https://www.javatpoint.com/difference-between-array-and-arraylist)
     * [Internal Working](https://knpcode.com/java/collections/arraylist-internal-implementation-in-java/) 
-    * [ArrayList basic operations]()
-    * [ArrayList other operations]()
+    * [ArrayList basic operations](https://github.com/kishorchannal/Java-Basics/blob/main/Collections%20Basics/ArryListBasicOperations.java)
+    * [ArrayList other operations](https://github.com/kishorchannal/Java-Basics/blob/main/Collections%20Basics/ArryListBasicOperations.java)
  * LinkedList
    * [ArrayList vs LinkedList](https://knpcode.com/java/collections/arraylist-vs-linkedlist-in-java/)
    * [Internal Working](https://knpcode.com/java/collections/linkedlist-internal-implementation-in-java/)
-   * [LinkedList basic operations]()
-   * [LinkedList other operations]()
+   * [LinkedList basic operations](https://github.com/kishorchannal/Java-Basics/blob/main/Collections%20Basics/LinkedListBasicOperations.java)
+   * [LinkedList other operations](https://github.com/kishorchannal/Java-Basics/blob/main/Collections%20Basics/LinkedListOtherOperations.java)
 * HashSet
-   * [Internal Working]()
-   * [HashSet basic operations]()
+   * [Internal Working](https://www.geeksforgeeks.org/internal-working-of-sethashset-in-java/)
+   * [HashSet operations](https://github.com/kishorchannal/Java-Basics/blob/main/Collections%20Basics/HashSetOperations.java)
 * HashMap
-   * [Internal Working]()
-   * [HashMap basic operations]()
-   * [HashMap other operations]()
+   * [Internal Working](https://www.geeksforgeeks.org/internal-working-of-hashmap-java/)
+   * [HashMap basic operations](https://github.com/kishorchannal/Java-Basics/blob/main/Collections%20Basics/HashMapBasicOperations.java)
+   * [HashMap other operations](https://github.com/kishorchannal/Java-Basics/blob/main/Collections%20Basics/HashMapOtherOperations.java)
